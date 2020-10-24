@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/flaviodicas)](https://www.youtube.com/user/flaviodicas)
 
 ### Sobre mim
-Atualmente tralhbando com desenvolvimento {backend, frontend and mobile} 
+Atualmente trabalhando com desenvolvimento {backend, frontend and mobile} 
 
 - [Blog](https://www.blog.flaviodeoliveira.com.br/) ✍🏼 - dicas de muitas coisas relacionadas a T.I
 - [Website](https://flaviodeoliveira.com.br/) 💻 - portfólio
