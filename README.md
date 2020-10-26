@@ -8,4 +8,4 @@
 Atualmente trabalhando com desenvolvimento {backend, frontend and mobile} 
 
 - [Blog](https://www.blog.flaviodeoliveira.com.br/) ✍🏼 - dicas de muitas coisas relacionadas a T.I
-- [Website](https://flaviodeoliveira.com.br/) 💻 - site
+- [Website](https://flaviodeoliveira.com.br/) 💻 - Site (eu atualizo mais o github do que o site/portfólio ;))
