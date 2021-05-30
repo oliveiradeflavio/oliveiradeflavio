@@ -10,3 +10,11 @@ Atualmente trabalhando com desenvolvimento {backend, frontend and mobile}
 - [Blog](https://www.blog.flaviodeoliveira.com.br/) ✍🏼 - dicas de muitas coisas relacionadas a T.I
 - [Website](https://flaviodeoliveira.com.br/) 💻 - Site (eu atualizo mais o github do que o site/portfólio ;))
 - [Stackoverflow](https://pt.stackoverflow.com/users/76896/fl%C3%A1vio) :neckbeard: - ajudo e pergunto também
+
+<div>
+<a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiradeflavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=oliveiradeflavio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width:100%;">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiradeflavio&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiradeflavio&amp;layout=compact&amp;langs_count=16&amp;theme=dracula" style="max-width:100%;">
+</a>
+</div>
