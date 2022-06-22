@@ -7,9 +7,9 @@
 ### Sobre mim
 Atualmente trabalhando com desenvolvimento {backend, frontend and mobile} 
 
-- [Blog](https://www.blog.flaviodeoliveira.com.br/) ✍🏼 - dicas de muitas coisas relacionadas a T.I
-- [Website](https://www.flaviodeoliveira.com.br/) 💻 - Site (eu atualizo mais o github do que o site/portfólio ;))
-- [Stackoverflow](https://pt.stackoverflow.com/users/76896/fl%C3%A1vio) 🤖 - ajudo e pergunto também
+- [Blog](https://www.blog.flaviodeoliveira.com.br/) ✍🏼 
+- [Website](https://www.flaviodeoliveira.com.br/) 💻 
+- [Stackoverflow](https://pt.stackoverflow.com/users/76896/fl%C3%A1vio) 🤖
 
 <div>
 <a href="https://github.com/oliveiradeflavio">
