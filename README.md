@@ -5,7 +5,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRPBNcEICRhlKb1IdKfiCxw)](https://www.youtube.com/channel/UCRPBNcEICRhlKb1IdKfiCxw)
 
 ### Sobre mim
-Formado em Gestão em Tecnologia da Informação (UNIP), pós-graduado em MBA em Gestão Empresarial (UNIFIA), mantendo interesse na área de desenvolvimento de software e administração de sistemas.
+Formado em Gestão em Tecnologia da Informação e pós-graduado em MBA em Gestão Empresarial, mantendo interesse na área de desenvolvimento de software e administração de sistemas.
 
 Utilizo no meu dia as tecnologias HTML5, CSS3, Bootstrap, Javascript, Jquery, PHP, MySQL e agora Python com Selenium para poder fazer alguns bots.
 
