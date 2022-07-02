@@ -5,7 +5,11 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRPBNcEICRhlKb1IdKfiCxw)](https://www.youtube.com/channel/UCRPBNcEICRhlKb1IdKfiCxw)
 
 ### Sobre mim
-Atualmente trabalhando com desenvolvimento {backend, frontend and mobile} 
+Formado em Gestão em Tecnologia da Informação (UNIP), pós-graduado em MBA em Gestão Empresarial (UNIFIA), mantendo interesse na área de desenvolvimento de software e administração de sistemas.
+
+Utilizo no meu dia as tecnologias HTML5, CSS3, Bootstrap, Javascript, Jquery, PHP, MySQL e agora Python com Selenium para poder fazer alguns bots.
+
+Atualmente trabalhando com desenvolvimento {backend, frontend e bots} 
 
 - [Blog](https://www.blog.flaviodeoliveira.com.br/) ✍🏼 
 - [Website](https://www.flaviodeoliveira.com.br/) 💻 
