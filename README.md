@@ -1,4 +1,4 @@
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://oliveiradeflavio.github.io)](https://oliveiradeflavio.github.io)
+[![Github Badge](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=Github&logoColor=white&link=https://oliveiradeflavio.github.io)](https://oliveiradeflavio.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fladoliveira)](https://www.linkedin.com/in/fladoliveira)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRPBNcEICRhlKb1IdKfiCxw)](https://www.youtube.com/channel/UCRPBNcEICRhlKb1IdKfiCxw)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flavio_tech/)](https://www.instagram.com/flavio_tech/)
