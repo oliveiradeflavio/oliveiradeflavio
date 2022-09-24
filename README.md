@@ -8,7 +8,7 @@
 ### Sobre mim
 Formado em Gestão em Tecnologia da Informação e pós-graduado em MBA em Gestão Empresarial, mantendo interesse na área de desenvolvimento de software e administração de sistemas.
 
-Utilizo no meu dia as tecnologias HTML5, CSS3, Bootstrap, Javascript, Jquery, PHP, MySQL e agora Python com Selenium para poder fazer alguns bots.
+Utilizo no meu dia as tecnologias HTML5, CSS3, Bootstrap, Javascript, Jquery, PHP, MySQL e Python.
 
 Atualmente trabalhando com desenvolvimento {backend, frontend e bots} 
 
