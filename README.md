@@ -12,6 +12,7 @@ Tenho experiência em várias tecnologias e linguagens, incluindo HTML5, CSS3, B
 
 No momento, estou trabalhando em projetos de desenvolvimento de software, em diferentes áreas como backend, frontend e bots. Em meu GitHub, você pode encontrar alguns desses projetos, que demonstram habilidades em desenvolver soluções práticas e eficientes.
 
+<!--
 <div>
   <img alt="Flávio_HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle" title="HTML">
   
@@ -29,7 +30,7 @@ No momento, estou trabalhando em projetos de desenvolvimento de software, em dif
  
  <img alt="Flávio_Firefox" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain-wordmark.svg" style="max-width: 100%;" width="40" height="30" align="middle" title="Firefox"> 
 
-</div>
+</div> -->
 <br>
 
 
