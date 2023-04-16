@@ -6,11 +6,11 @@
 [![Stackoverflow Badge]( 	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/76896/fl%C3%A1vio)](https://pt.stackoverflow.com/users/76896/fl%C3%A1vio)
 
 ### Sobre mim
-Formado em Gestão em Tecnologia da Informação e pós-graduado em MBA em Gestão Empresarial, mantendo interesse na área de desenvolvimento de software e administração de sistemas.
+Com formação em Gestão de T.I, Análise e Desenvolvimento de Sistemas e MBA em Gestão Empresarial, apaixonado por desenvolvimento de software e administração de sistemas. Ele tem um interesse constante em se atualizar e aprimorar suas habilidades nessas áreas.
 
-Utilizo no meu dia as tecnologias HTML5, CSS3, Bootstrap, Javascript, Jquery, PHP, MySQL e Python.
+Tenho experiência em várias tecnologias e linguagens, incluindo HTML5, CSS3, Bootstrap, JavaScript, jQuery, PHP, Laravel, VueJS, MySQL e Python. Com  conhecimento, tenho desenvolvido soluções criativas e eficientes para diversos projetos.
 
-Atualmente trabalhando com desenvolvimento {backend, frontend e bots} 
+No momento, estou trabalhando em projetos de desenvolvimento de software, em diferentes áreas como backend, frontend e bots. Em meu GitHub, você pode encontrar alguns desses projetos, que demonstram habilidades em desenvolver soluções práticas e eficientes.
 
 <div>
   <img alt="Flávio_HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;" width="40" height="30" align="middle" title="HTML">
