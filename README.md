@@ -18,7 +18,7 @@
 
   <img alt="Selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" style="max-width: 100%;" width="40" height="30" align="middle" title="Selenium">
 
-  <img alt="Selenium" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;" width="40" height="30" align="middle" title="Selenium">
+  <img alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="max-width: 100%;" width="40" height="30" align="middle" title="Typescript">
 
 </div> 
 <br>
