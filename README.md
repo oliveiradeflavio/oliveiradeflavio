@@ -23,11 +23,6 @@
 <br>
 
 <div>
-<h2>Contato</h2>
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fladoliveira)](https://www.linkedin.com/in/fladoliveira)
-[![Stackoverflow Badge]( 	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/76896/fl%C3%A1vio)](https://pt.stackoverflow.com/users/76896/fl%C3%A1vio)
-</div>
 
 
 
